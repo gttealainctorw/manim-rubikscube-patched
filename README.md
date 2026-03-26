@@ -21,4 +21,4 @@ https://manim-rubikscube.readthedocs.io/en/stable/
 ### Option 1 — Install from GitHub
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/manim-rubikscube-patched.git
+pip install git+https://github.com/gttealainctorw/manim-rubikscube-patched.git
