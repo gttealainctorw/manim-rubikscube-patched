@@ -2,7 +2,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/gttealainctorw/manim-rubikscube-patched?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/gttealainctorw/manim-rubikscube-patched?style=social)
-![License](https://img.shields.io/github/license/gttealainctorw/manim-rubikscube-patched)
 
 A patched version of the Rubik's Cube implementation for Manim, compatible with newer versions of Manim.
 
