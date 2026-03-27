@@ -1,5 +1,9 @@
 # 🧊 Manim Rubik Cube (Patched)
 
+![GitHub stars](https://img.shields.io/github/stars/gttealainctorw/manim-rubikscube-patched?style=social)
+![GitHub forks](https://img.shields.io/github/forks/gttealainctorw/manim-rubikscube-patched?style=social)
+![License](https://img.shields.io/github/license/gttealainctorw/manim-rubikscube-patched)
+
 A patched version of the Rubik's Cube implementation for Manim, compatible with newer versions of Manim.
 
 Original project:  
@@ -7,30 +11,34 @@ https://manim-rubikscube.readthedocs.io/en/stable/
 
 ---
 
-## ✨ Features
+## 🎥 Demo
 
-- Fully functional 3D Rubik's Cube  
-- Correct face rotations (R, U, etc.)  
-- Compatible with modern Manim versions  
-- Fixed import issues and structure  
+![Rubik Demo](demo.gif)
 
 ---
 
-## ⚠️ Installation Note (Important)
+## ✨ Features
 
-This package is installed directly from GitHub, so you need to have **Git installed** on your system.
+- Fully functional 3D Rubik's Cube  
+- Real face rotations (R, U, etc.)  
+- Compatible with modern Manim  
+- Fixed imports and structure  
+- Ready for animations and math visualizations  
 
-If you don't have Git installed, download it here:  
+---
+
+## ⚠️ Installation Note
+
+This package requires **Git**.
+
+Download here:  
 https://git-scm.com/download/win  
 
-During installation, make sure to select:  
-**"Git from the command line"**
+Select: **"Git from the command line"**
 
 ---
 
 ## 📦 Installation
-
-### Option 1 — Install from GitHub (recommended)
 
 ```bash
 pip install git+https://github.com/gttealainctorw/manim-rubikscube-patched.git
